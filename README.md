@@ -54,8 +54,8 @@
   - drupal_geddon_2
   - drupal_Bruteforce
 
-#### contact:
-instagram: https://www.instagram.com/cantixcrewfamily
-twitter: https://www.twitter.com/cantixcr3w
-fanspage: https://www.facebook.com/cantixcrew2nd
+<div>
+  <p>instagram: https://www.instagram.com/cantixcrewfamily<br>
+    twitter: https://www.twitter.com/cantixcr3w<br>
+fanspage: https://www.facebook.com/cantixcrew2nd<br>
 cantixcr3w@yahoo.com
