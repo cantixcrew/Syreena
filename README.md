@@ -23,14 +23,15 @@
   - hd_WebPlayerSqli
   - headWayTheme
   - revslider
-  - viral_optins
+  - viral_Optins
   - wysija
   - wp_User_Frontend
-  - wp_mobile_detector
+  - wp_Mobile_detector
   - wp_Job_Manager
-  - wp_content_injection
-  - wp_miniaudioplayer
-  - wp_support_plus_responsive_ticket_system
+  - wp_Content_injection
+  - wp_Miniaudioplayer
+  - wp_Support_plus_responsive_ticket_system
+  - wp_Bruteforce
   
 - [x] Joomla
   - com_AdsManager
@@ -46,5 +47,15 @@
   - com_extplorer
   - com_jwallpapers
   - com_facileforms
+  - joomla_Bruteforce
   
-- [x] Github account
+- [x] Drupal
+  - drupal_Add_admin
+  - drupal_geddon_2
+  - drupal_Bruteforce
+
+#### contact:
+instagram: https://www.instagram.com/cantixcrewfamily
+twitter: https://www.twitter.com/cantixcr3w
+fanspage: https://www.facebook.com/cantixcrew2nd
+cantixcr3w@yahoo.com
