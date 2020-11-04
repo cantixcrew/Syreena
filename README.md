@@ -9,6 +9,11 @@
   <p>Syreena Autoexploit for CMS (Wordpress,Joomla,Drupal)</p>
 </div>
 
+### Avaible CMS:
+- [x] Wordpress
+   [-] asdasdas
+- [x] Folder
+- [x] Github account
 
 [![Python 2](https://img.shields.io/badge/python-2.6-yellow.svg)](https://www.python.org/) 
 ![Size](https://img.shields.io/github/size/cantixcrew/Syreena/README.md)
