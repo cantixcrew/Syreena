@@ -11,7 +11,7 @@
 
 ### Avaible CMS:
 - [x] Wordpress
-   [-] asdasdas
+  - [-] asdasdas
 - [x] Folder
 - [x] Github account
 
