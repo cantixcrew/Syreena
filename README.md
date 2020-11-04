@@ -55,7 +55,8 @@
   - drupal_Bruteforce
 
 <div>
-  <p>instagram: https://www.instagram.com/cantixcrewfamily<br>
-    twitter: https://www.twitter.com/cantixcr3w<br>
-fanspage: https://www.facebook.com/cantixcrew2nd<br>
-cantixcr3w@yahoo.com
+  <p>instagram: https://www.instagram.com/cantixcrewfamily</p>
+  <p>twitter: https://www.twitter.com/cantixcr3w</p>
+  <p>fanspage: https://www.facebook.com/cantixcrew2nd</p>
+  <p>cantixcr3w@yahoo.com</p>
+</div>
