@@ -9,15 +9,42 @@
   <p>Syreena Autoexploit for CMS (Wordpress,Joomla,Drupal)</p>
 </div>
 
-### Avaible CMS:
-- [x] Wordpress
-  - asdasdas  - asdas
-  - asdas  - asdasdas
-  - asdas
-- [x] Folder
-- [x] Github account
 
 [![Python 2](https://img.shields.io/badge/python-2.6-yellow.svg)](https://www.python.org/) 
 ![Size](https://img.shields.io/github/size/cantixcrew/Syreena/README.md)
 ![Tweet](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fcantixcr3w)
 ![Follow](https://img.shields.io/twitter/follow/nenghaxor?label=Follow&style=social)
+
+### Avaible exploit:
+- [x] Wordpress
+  - cherry_plugin
+  - downloads_Manager
+  - gravity_Forms
+  - hd_WebPlayerSqli
+  - headWayTheme
+  - revslider
+  - viral_optins
+  - wysija
+  - wp_User_Frontend
+  - wp_mobile_detector
+  - wp_Job_Manager
+  - wp_content_injection
+  - wp_miniaudioplayer
+  - wp_support_plus_responsive_ticket_system
+  
+- [x] Joomla
+  - com_AdsManager
+  - com_Alberghi
+  - com_CCkJseblod
+  - com_Fabric
+  - com_Hdflvplayer
+  - com_Jdownloads
+  - com_Joomanager
+  - com_MyBlog
+  - com_Macgallery
+  - com_SexyContactform
+  - com_extplorer
+  - com_jwallpapers
+  - com_facileforms
+  
+- [x] Github account
