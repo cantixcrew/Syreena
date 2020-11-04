@@ -5,12 +5,9 @@
   <img src="https://github.com/cantixcrew/Syreena/blob/main/img/Syreena_3.jpg" alt="Syreena">
 </h1>
 
-### About:
-Name   : Syreena
-
-Tools  : AutoExploiter for CMS (Wordpress,Joomla,Drupal)
-
-Version: 1.0 
+<div>
+  <p>asdasdas</p>
+</div>
 
 
 [![Python 2](https://img.shields.io/badge/python-2.6-yellow.svg)](https://www.python.org/) 
